@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+- 🌱 I’m currently learning DSA and Responsive Web Design
+- 📫 How to reach me: swastiksharmaaa09@gmail.com
 <!--
 **swastikgithub09/swastikgithub09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
