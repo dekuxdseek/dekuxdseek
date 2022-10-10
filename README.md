@@ -11,6 +11,7 @@
 
 A passionate learner from India.:heart: to code.
 
+[![@dekuxdseek's Holopin board](https://holopin.io/api/user/board?user=dekuxdseek)](https://holopin.io/@dekuxdseek)
 
 
 
