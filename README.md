@@ -13,13 +13,14 @@
 
 
 
-##  About Me 👨🏻‍💻
+## 👨🏻‍💻 &nbsp;About Me
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
-- 🎓  I'm currently studying Computer Science Engineering at Chandigarh University.
-- 🌱 I’m currently learning DSA and understanding more about Computer Science. 
-- 👯 I’m looking to collaborate on WebDev projects.
-- ✉️  You can shoot me an email at swastiksharmaaa09@gmail.com! I'll try to respond as soon as I can.
+
+🎓 &nbsp;I'm currently studying Computer Science Engineering at Chandigarh University.\
+👯 &nbsp;I’m looking to collaborate on WebDev projects.\
+🌱 &nbsp;I’m currently learning DSA and understanding more about Computer Science.\
+✉️ &nbsp;You can shoot me an email at swastiksharmaaa09@gmail.com! I'll try to respond as soon as I can.
 
 
 ## Find me around the web 🌎 <a href="https://leetcode.com/swastiksharmaaa09/"><img align="left" width="150" height="146" src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif"></a>
@@ -27,7 +28,7 @@
    - Practising on <a href="https://codeforces.com/profile/dekuxdseek/">Codeforces</a> 🙃
    - Sharing updates on <a href="https://www.linkedin.com/in/swastik-sharma-720777212/">LinkedIn</a> 😇
 
-<br>
+
 
 
 ## Badges
