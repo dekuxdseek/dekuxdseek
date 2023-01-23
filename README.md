@@ -1,7 +1,7 @@
 # Hey! Swastik here 👋🏾 
 
 [![Linkedin: Swastik Sharma](https://img.shields.io/badge/-Swastik-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/swastik-sharma-720777212/)](https://www.linkedin.com/in/swastik-sharma-720777212/)
-![GitHub followers](https://img.shields.io/github/followers/swastikgithub09?label=Follow&style=social)
+![GitHub followers](https://img.shields.io/github/followers/dekuxdseek?label=Follow&style=social)
 <img alt = "profile views" src="https://komarev.com/ghpvc/?username=dekuxdseek&color=brightgreen">  
 
 <img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" alt="Hello World">
