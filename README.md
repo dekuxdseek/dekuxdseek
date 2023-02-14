@@ -16,7 +16,7 @@
 
 🎓 &nbsp;I'm currently studying Computer Science Engineering at Chandigarh University.\
 👯 &nbsp;I’m looking to collaborate on WebDev projects.\
-🌱 &nbsp;I’m currently learning DSA and understanding more about Computer Science.\
+🌱 &nbsp;I’m currently learning Javascript and i like to do problem solving in my free time.\
 ✉️ &nbsp;You can shoot me an email at swastiksharmaaa09@gmail.com! I'll try to respond as soon as I can.
 
 
